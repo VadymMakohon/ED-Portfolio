@@ -27,3 +27,23 @@ Windows:
 ```bash
 git clone https://github.com/
 ```
+
+## Github repo
+
+This is the [link](https://github.com/VadymMakohon/) to the Github repo of the project
+
+## Sample Website
+
+A live demo is already available via this [link](https://vadymmakohon.github.io//)
+
+## 📜 License
+
+This repository is for educational purposes only and has an MIT License
+
+### Show your support
+
+Give a ⭐ if you like this website!
+
+# Contributors
+
+- [Vadym Makohon](https://github.com/VadymMakohon)
