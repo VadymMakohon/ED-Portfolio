@@ -25,7 +25,7 @@ sudo git clone https://github.com/codewithsadee/portfolio.git
 Windows:
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/codewithsadee/portfolio.git
 ```
 
 ## Github repo
