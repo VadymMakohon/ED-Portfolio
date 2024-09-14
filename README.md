@@ -19,13 +19,13 @@ To run **Portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/portfolio.git
+sudo git clone https://github.com/VadymMakohon/ED-portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/VadymMakohon/ED-portfolio.git
 ```
 
 ## Github repo
